@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# new comment
 NCS_VERSION=v2.8.0
 
 ROOT_HASH=`realpath . | md5sum | sed 's/ .*//g'`
